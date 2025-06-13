@@ -12,7 +12,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/Perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">meu nome é patrick_</p>
         <h1>Eu ensino a modelar</h1>
@@ -31,7 +31,7 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="img/foto2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">projeto pra o ig @sportlifefavela/h5>
             
