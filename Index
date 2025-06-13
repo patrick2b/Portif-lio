@@ -35,4 +35,9 @@
                     <div class="card-body">
                         <h5 class="card-title">projeto pra o ig @sportlifefavela/h5>
             
-                       
+           <!-- Projeto 1 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/perfil.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">projeto pra o ig @sportlifefavela/h5>             
